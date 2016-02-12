@@ -1,0 +1,33 @@
+pid	province	# of grids
+
+1	anh		12
+2	chongq		5
+3	fuj		8
+4	gans		33
+5	guangd		11
+6	guangx		16
+7	guiz		15
+8	hain		2
+9	heb		16
+10	heilj		43
+11	hen		12
+12	hub		15
+13	hun		14
+14	jiangs		6
+15	jiangx		12
+16	jil		17
+17	liaon		13
+18	neim		101
+19	ningx		4
+20	qingh		54
+21	shand		11
+22	shangh		0
+23	shannx		18
+24	shanx		12
+25	sic		41
+26	tianj		1
+27	xinj		138
+28	xiz		91
+29	yunn		26
+30	zhej		7
+31	beij		2
